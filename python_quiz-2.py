@@ -31,3 +31,5 @@ elif day_of_week == 5:
     print('Day of the week is a Thursday')
 elif day_of_week == 6:
     print('Day of the week is a Friday')
+
+ # print( '\n' + '\' str(month) + '\'  str(day) '\'  + str(year) + 'was a Saturday'    
